@@ -1,5 +1,5 @@
--  <h1 align="center">Hi,I'm Israt Jahan Reshma</h1>
-<p>My Github Stats</p>
+-  <h3 align="left">Hi,I'm Israt Jahan Reshma</h3>
+My Github Stats
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=isratjahanr&show_icons=true&locale=en" alt="isratjahanr" /></p>
 
 
