@@ -1,4 +1,4 @@
--  <h3 align="left">Hi,I'm Israt Jahan Reshma</h3>
+-  <h4 align="left">Hi,I'm Israt Jahan Reshma</h4>
 My Github Stats
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=isratjahanr&show_icons=true&locale=en" alt="isratjahanr" /></p>
 
@@ -11,7 +11,7 @@ My Github Stats
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-    <p> My Handles & Sites:</p>
+   <h4 align="left">My Handles & Sites:</h4>
 <a href="https://linkedin.com/in/israt-jahan-041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israt-jahan-041" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/israt041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="israt041" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/israt_j_r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="israt_j_r" height="30" width="40" /></a>
