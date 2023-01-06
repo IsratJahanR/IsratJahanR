@@ -1,6 +1,6 @@
 -  <h4 align="left">Hi,I'm Israt Jahan Reshma</h4>
 My Github Stats
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=isratjahanr&show_icons=true&locale=en" alt="isratjahanr" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=isratjahanr&show_icons=true&locale=en" alt="isratjahanr" /></p>
 
 
 
